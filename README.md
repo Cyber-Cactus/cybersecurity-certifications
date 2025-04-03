@@ -9,8 +9,7 @@ Welcome! This repository highlights my cybersecurity certifications as I continu
 
 ### 🏅 CompTIA Security+
 - **Issuer:** CompTIA
-- **Date Earned:** [Month Year]
-- **Credential ID:** [Credential ID]
+- **Date Earned:** [Month Year] 
 - **Description:** Comprehensive certification covering security principles, risk management, incident response, cryptography, and network security.
 - **Certificate:** [View Certificate](https://www.credly.com/earner/earned/badge/0ef3815a-873a-4073-97ef-df852f1aef5f)
 
@@ -19,7 +18,6 @@ Welcome! This repository highlights my cybersecurity certifications as I continu
 ### 🎓 Security Operations (SOC) 101
 - **Issuer:** TCM Security Academy
 - **Date Earned:** March 2025
-- **Credential ID:** SOC101-20250321-XXXX
 - **Description:** Covers fundamental SOC operations, including alert triage, SIEM tool usage, threat intelligence, and incident response processes.
 - **Certificate:** [View Certificate](certificate-of-completion-for-security-operations-soc-101-2.pdf)
 
