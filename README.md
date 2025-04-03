@@ -19,7 +19,7 @@ Welcome! This repository highlights my cybersecurity certifications as I continu
 - **Issuer:** TCM Security Academy
 - **Date Earned:** March 2025
 - **Description:** Covers fundamental SOC operations, including alert triage, SIEM tool usage, threat intelligence, and incident response processes.
-- **Certificate:** [View Certificate](certificate-of-completion-for-security-operations-soc-101-2.pdf)
+- **Certificate:** [View Certificate](https://github.com/A-Space-Cactus/cybersecurity-certifications/blob/main/cybersecurity-certifications/certificate-of-completion-for-security-operations-soc-101-2.pdf)
 
 ---
 
