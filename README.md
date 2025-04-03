@@ -27,7 +27,7 @@ Welcome! This repository highlights my cybersecurity certifications as I continu
 - **Issuer:** TCM Security Academy
 - **Date Earned:** April 2025
 - **Description:** Provides essential knowledge of Linux commands, system navigation, management, and scripting focused on cybersecurity tasks.
-- **Certificate:** [View Certificate](certificate-of-completion-for-linux-101-1.pdf)
+- **Certificate:** [View Certificate](https://github.com/A-Space-Cactus/cybersecurity-certifications/blob/main/cybersecurity-certifications/certificate-of-completion-for-linux-101-1.pdf)
 
 ---
 
