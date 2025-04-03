@@ -44,7 +44,7 @@ Welcome! This repository highlights my cybersecurity certifications as I continu
 ## 🔗 Connect
 
 - **LinkedIn:** [linkedin.com/in/benrednor](https://www.linkedin.com/in/benrednor/)
-- **GitHub:** [github.com/spacecactus](https://github.com/spacecactus)
+- **GitHub:** [github.com/spacecactus](https://github.com/A-Space-Cactus)
 
 ---
 
