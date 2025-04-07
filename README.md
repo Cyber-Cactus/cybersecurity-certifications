@@ -35,7 +35,7 @@ Welcome! This repository highlights my cybersecurity certifications as I continu
 - **Issuer:** Google
 - **Date Earned:** October 2024
 - **Description:** Fundamental IT support skills including troubleshooting, networking basics, system administration, and security fundamentals.
-- **Certificate:** [View Certificate](https://www.credly.com/earner/earned/badge/2c118028-fc47-413d-84de-5dda63b1515b)
+- **Certificate:** [View Certificate](https://www.credly.com/badges/2c118028-fc47-413d-84de-5dda63b1515b/public_url)
 
 ---
 
