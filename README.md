@@ -11,7 +11,7 @@ Welcome! This repository highlights my cybersecurity certifications as I continu
 - **Issuer:** CompTIA
 - **Date Earned:** March 2025 
 - **Description:** Comprehensive certification covering security principles, risk management, incident response, cryptography, and network security.
-- **Certificate:** [View Certificate](https://www.credly.com/earner/earned/badge/0ef3815a-873a-4073-97ef-df852f1aef5f)
+- **Certificate:** [View Certificate](https://www.credly.com/badges/0ef3815a-873a-4073-97ef-df852f1aef5f/public_url)
 
 ---
 
